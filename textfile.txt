@@ -1,3 +1,16 @@
-Nikitha N, 1606, 6.1
-Siddu R, 0616, 0.0
-Teja sai, 8441, 1.6
+
+STUDENT DATA OF RAINBOW SCHOOLS
+
+Student Details :
+Student Id : 1606
+Student Name : Nikitha N
+Student enrolled courses : .net,C# 
+Marks On regarded courses : .net -100/100 ,C# - 100/100 
+Student name:Siddu R, 
+Student Id: 1616
+Student enrolled courses : .net,C# 
+Marks On regarded courses : .net-98/100 ,C#-99/100 
+Student name:Teja
+Student Id: 8441
+Student enrolled courses : .net,C# 
+Marks On regarded courses : .net-90/100 ,C#-97/100 
